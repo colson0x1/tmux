@@ -2,6 +2,16 @@
 
 Unlock the full potential of your terminal with this meticulously crafted tmux configuration, accompanied by a versatile Zsh script for effortlessly launching websites and applications. 🔥
 
+## July, 2026 Preview 😆
+
+![colson nvim npm](https://i.imgur.com/ychKSbr.png)
+
+![colson nvim npm](https://i.imgur.com/CantGRr.png)
+
+![colson nvim npm](https://i.imgur.com/xSLOIEc.png)
+
+## 2025 Preview
+
 ![colson tmux npm on arch linux machine](https://i.imgur.com/5c6IRsM.png)
 
 ![colson tmux npm](https://i.imgur.com/3PiJBBO.png)
